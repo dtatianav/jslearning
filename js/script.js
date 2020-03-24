@@ -90,6 +90,5 @@ let appData = {
 };
 
 for (let smth in appData) {
-    
-    console.log('Наша программа включает в себя данные: '+ smth);
+        console.log('Наша программа включает в себя данные: '+ smth);
 }
